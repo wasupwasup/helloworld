@@ -1,0 +1,4 @@
+#ignorando grupos de archivos por extension
+/*.jpg
+/jpgs
+/archivo.txt
